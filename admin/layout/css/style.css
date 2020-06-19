@@ -1,0 +1,342 @@
+.{
+	padding: 0px;
+	margin: 0px;
+}
+
+.header{
+	overflow: hidden;
+	background-color:#F0F8FF;
+}
+.one{
+	margin: 0px;
+	padding: 30px;
+	overflow: hidden;
+	float: left;
+
+}
+
+.word{
+	float: right;
+	margin-right: 70px;
+	padding: 10px;
+
+
+}
+.word p{
+	margin: 5px;
+	font-size:60px;
+	font-family: serif;
+	color:	#20B2AA;
+	font-stretch: extra-expanded;
+
+}
+
+input[class=a]
+{
+	outline: none;
+  	margin: 0;
+  	border: none;
+  	box-shadow: none;
+ 	font-size: 14px;
+  	font-family: inherit;
+  	border-bottom: 2px solid #ccc;
+  	padding: 9px 0;
+  	color: #666;
+
+}
+input[class=b]
+{
+	outline: none;
+  	margin: 0;
+  	border: none;
+  	box-shadow: none;
+ 	font-size: 14px;
+  	font-family: inherit;
+  	border-bottom: 2px solid #ccc;
+  	padding: 9px 0;
+  	color: #666;
+
+}
+.p-t-20 {
+  padding-top: 20px;
+}
+.btn {
+  line-height: 35px;
+  padding: 0 25px;
+  cursor: pointer;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+}
+.btncolor {
+  background: #57b846;
+}
+
+.btncolor:hover {
+  background: #4dae3c;
+}
+.btnradius {
+  border-radius: 10px;
+}
+
+.sec{
+	height: 370px;
+	width: 1010px;
+	overflow: hidden;
+
+}
+.sec1{
+	width: 450px;
+	height: 370px;
+	float:left;
+
+}
+.sec1 img{
+	padding: 20px;
+	margin-left: 20px; 
+}
+.sec2{
+	width: 530px;
+	height: 370px;
+	margin-right: 20px;
+	float: right;
+	padding-left:5px;
+	overflow: hidden;
+}
+
+input[class=c]
+{
+	outline: none;
+  	margin: 0;
+  	border: none;
+  	box-shadow: none;
+ 	font-size: 14px;
+  	font-family: inherit;
+  	border-bottom: 2px solid #ccc;
+  	padding: 9px 0;
+  	color: #666;
+  	width: 200px;
+}
+input[class=d]
+{
+	outline: none;
+  	margin: 0;
+  	border: none;
+  	box-shadow: none;
+ 	font-size: 14px;
+  	font-family: inherit;
+  	border-bottom: 2px solid #ccc;
+  	padding: 9px 0;
+  	color: #666;
+  	width: 405px;
+}
+.log{
+	padding: 10px; 
+	margin: 0px;
+	overflow: hidden;
+}
+input[class=e]
+{
+	outline: none;
+  	margin: 0;
+  	border: none;
+  	box-shadow: none;
+ 	font-size: 14px;
+  	font-family: inherit;
+  	border-bottom: 2px solid #ccc;
+  	padding: 9px 0;
+  	color: #666;
+  	width: 405px;
+  	cursor: pointer;
+}
+
+ label{
+	font-family: inherit;
+	color: #666;
+}
+select[class=a]
+{
+	outline: none;
+  	margin: 0;
+  	border: none;
+  	box-shadow: none;
+ 	font-size: 14px;
+  	font-family: inherit;
+  	border-bottom: 2px solid #ccc;
+  	padding: 9px 0;
+  	color: #666;
+  	width: 200px;
+}
+
+
+
+.phone{
+	float: right;
+	margin-right:30px; 
+}
+.sss{
+	float: right;
+}
+.about h6{
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+.social{
+	float: right;
+	margin: -7px;
+	padding: 0px;
+}
+.social ul{
+	list-style: none;
+	overflow: hidden;
+	margin: 0px;
+}
+.social ul li{
+	float: left;
+	padding: 4px;
+	margin-right: 4px; 
+}
+.social ul li a{
+	text-decoration: none;
+	color: black;
+	float: left;
+
+}
+.all_login {
+  width: 500px;
+  height: 400px;
+  margin: 0 auto;
+  padding: 10px;
+  background-color:white;
+  border-radius: 10px;
+
+}
+.login{
+	margin: 0px;
+	padding: 0px;
+	height: 80px;
+	width: 500px;
+	background-color: #57b846;
+	border-top-right-radius: 10px;
+	
+}
+.login p{
+	text-align: center;
+	color: white;
+	font-family: JosefinSans-Bold;
+	font-size: 30px;
+	padding-top: 20px;
+}
+.user{
+	padding:0px;
+	width: 300px;
+	margin-left: 50px;
+}
+.userna {
+  font-family: Ubuntu-Bold;
+  font-size: 15px;
+  color: #1b3815;
+  width: 300px;
+  height: 55px;
+  background: #ebebeb;
+  border-radius: 27px;
+  padding: 0 35px 0 35px;
+}
+.note
+{
+	float: right;
+  padding:10px;
+  margin-right:80px;  
+}
+.txt {
+  font-family: Ubuntu-Regular;
+  font-size: 15px;
+  color: #999999;
+  line-height: 1.4;
+}
+.txt1{
+	font-family: Ubuntu-Regular;
+  	font-size: 15px;
+  	color: #999999;
+  	line-height: 1.4;
+  	text-decoration: none;
+  	color: #57b846;
+}
+.btn2 {
+  line-height: 35px;
+  padding: 0 25px;
+  cursor: pointer;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  background-color: #57b846;
+  border-radius: 10px;
+
+}
+
+
+.heed{
+  overflow: hidden;
+  background-color: black;
+}
+.heed ul{
+  list-style: none;
+}
+.heed ul li{
+  float: left;
+  padding: 10px;
+  margin-left: 180px; 
+
+}
+.heed ul li a{
+  text-decoration: none;
+  color: white;
+}
+.heed ul li a:hover
+{
+  opacity: 1.3;
+  color: #ccc;
+}
+
+.table{
+  margin-left: 200px;
+}
+.table tr td{ 
+  padding: 50px;
+  background-color: #ccc;
+}
+.s{
+  color: blue;
+}
+.r
+{
+  font-family: Ubuntu-Bold;
+  font-size: 15px;
+  color: #1b3815;
+  width: 300px;
+  height: 55px;
+  background: #ebebeb;
+  border-radius: 27px;
+  padding: 0 35px 0 35px;
+
+}
+
+.btn2 {
+  line-height: 35px;
+  padding: 0 25px;
+  cursor: pointer;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  background-color: #57b846;
+  border-radius: 10px;
+
+}
+.sf{
+ margin-left: 350px; 
+ margin-top: 100px;
+}
+.bu{
+  margin-left: 130px;
+}
