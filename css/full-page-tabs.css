@@ -1,0 +1,84 @@
+/* Set height of body and the document to 100% */
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial;
+    background-color: rgb(246, 252, 225);
+}
+
+/* Style tab links */
+.tablink {
+    background-color: #2c2c2c;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 15px;
+    width: 22%;
+}
+
+.tablink:hover {
+    background-color: #555;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+    color: black;
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+}
+
+#Home,
+#News,
+#Contact,
+#About {
+    background-color: rgb(246, 252, 225);
+}
+
+* {
+    box-sizing: border-box
+}
+
+.logout {
+    width: 12%;
+    background-color: #ad0303;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 15px;
+}
+
+.logout:hover {
+    background-color: #cb0606;
+}
+
+.tab-contnt , .share{
+    border: solid 4px white;
+    padding: 14px 16px;
+    margin-bottom: 10px;
+}
+.tab-contnt h3, .tab-contnt p, .share{
+    background-color: white;
+    padding: 10px 12px;
+}
+
+.tab-contnt h3{
+    color: #2c9062;
+}
+.share-btn {
+    background-color: rgba(5, 88, 66, 0.79);
+    color: white;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 15px;
+    display: inline-block
+}

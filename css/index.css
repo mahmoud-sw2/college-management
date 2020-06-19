@@ -1,0 +1,59 @@
+body {
+    background-color: #151515
+}
+
+.navbar-collapse .container-fluid {
+    padding: 2rem 2.5rem;
+    border-bottom: 1px solid #55595c;
+}
+
+.navbar-collapse h4 {
+    color: #818a91;
+}
+
+.navbar-collapse .text-muted {
+    color: #818a91;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    margin-bottom: 0;
+    background-color: #fff;
+    background-image: url('../img/cloud-cover.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: cover;
+}
+
+.jumbotron-heading {
+    font-weight: 300;
+}
+
+.jumbotron .container {
+    max-width: 65%;
+    max-height: 50%;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 2rem;
+    color: white;
+}
+
+.jumbotron p {
+    color: white;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.cover2 {
+    background-size: 100%;
+}
+
+.signup {
+    background-color: #7f34b5;
+    color: white;
+
+}
+
+.signin {
+    background-color: #2d63de;
+    color: white;
+}
